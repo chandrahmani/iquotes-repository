@@ -1,0 +1,134 @@
+
+.form-wrapper{
+    max-width: 400px;
+    margin: auto;
+    margin-top: 2rem;
+}
+.list{
+    margin: auto;
+    max-width: 200px;
+    margin: 2rem;
+};
+
+.text-box{
+    background-color: black;
+}
+.box-wrapper h3{
+   margin-top: 2rem;
+   text-align: center;
+}
+.box-wrapper p {
+    text-align: center;
+}
+.box-wrapper{
+    background-color: #d0caca;
+    max-width: 450px;
+    margin: auto;
+    border-radius: 8px;
+}
+.quote-list {
+    padding: 2rem;
+    background: #fae48efa;
+    margin: auto;
+    border-radius: 7px;
+    font-size: 1.4rem;
+}
+
+/* h3{
+    text-align: center;
+    font-weight: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif  ;
+    color: green;
+    margin-top: 1rem;
+} */
+
+.color{
+    background-color: #e3e3e3;
+    border-radius: 5px;
+    margin-top: 2rem;
+}
+
+
+.lists-wrapper{
+    padding: 4rem;
+    margin: 1rem;
+}
+.alert-msg{
+    max-width: 500px;
+    margin: auto;
+}
+ a{
+    text-decoration: none;  
+
+}
+
+.msg-show {
+    margin-top: 2rem;
+}
+.msg{
+     margin-top: 2rem;
+}
+
+.list-wrapper{
+    margin-top: 2rem;
+}
+
+.list-wrapper a{
+    margin: 1rem;
+}
+
+.profile-wrapper{
+    margin: 2rem;
+
+}
+
+/**
+ProFile
+**/
+  
+  #list {
+    text-align: left;
+
+  }
+
+  ul li{
+    list-style: none;
+  }
+  
+  .myName{
+    padding: 0.2rem;
+  }
+  #image {
+    border-radius: 30%;
+    width: 200px;
+    float: right;
+  }
+
+  #img-caption {
+    width: 80vw;
+    margin: 20px auto;
+    font-weight: bold;
+  }
+  .align {
+    position: relative;
+    margin: auto;
+      color: #fff;
+  }
+
+  #tribute-info {
+    color: black;
+  }
+
+
+  .btn-wrapper{
+    display: flex;
+    justify-content: space-between;
+  }
+
+.text-wrapper p{
+  text-transform: capitalize;
+}
+
+.txt{
+  margin-left: 2rem;
+}
